@@ -18,7 +18,6 @@
 
  ## Usage
 
-### Drowsiness Detection
 Run script using:
 
     python WebcamRuntime_drowsinessDetect.py
